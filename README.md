@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/mathys-chn.png" alt="Photo de profil" width="140" style="border-radius: 50%;" />
+<img src="./banner.svg" alt="Mathys CHENU - Étudiant en BUT Informatique" width="100%" />
 
-# Salut, moi c'est Mathys
+# Salut, moi c'est Mathys 👋
 
 **Étudiant en BUT Informatique à Aix-en-Provence**
 
