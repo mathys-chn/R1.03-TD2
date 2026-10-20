@@ -2,8 +2,6 @@
 
 <img src="./banner.svg" alt="Mathys CHENU - Étudiant en BUT Informatique" width="100%" />
 
-# Salut, moi c'est Mathys 👋
-
 **Étudiant en BUT Informatique à Aix-en-Provence**
 
 ![BUT Informatique](https://img.shields.io/badge/BUT-Informatique-0d1117?style=for-the-badge&labelColor=f97316)
