@@ -2,7 +2,7 @@
 
 <img src="https://github.com/mathys-chn.png" alt="Photo de profil" width="140" style="border-radius: 50%;" />
 
-# Salut, moi c'est Mathys 👋
+# Salut, moi c'est Mathys
 
 **Étudiant en BUT Informatique à Aix-en-Provence**
 
