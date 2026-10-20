@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Mathys CHENU - Étudiant en BUT Informatique" width="100%" />
+**Salut, je me présente je suis Mathys CHENU**
 
 **Étudiant en BUT Informatique à Aix-en-Provence**
 
@@ -10,6 +10,7 @@
 
 </div>
 
+
 ## Qui je suis
 
 Je suis étudiant en **BUT Informatique** à l'IUT d'Aix-Marseille.
@@ -17,6 +18,7 @@ Je suis étudiant en **BUT Informatique** à l'IUT d'Aix-Marseille.
 J'ai commencé le développement en **2021** avec **Python**, et je suis assez vite passé sur le **web**.
 
 > Ce que je préfère, c'est vraiment la **création de sites web** : partir de rien, construire le design, et voir le résultat prendre forme directement dans le navigateur.
+
 
 ## MCH-Technologies
 
@@ -29,11 +31,13 @@ Quelques sites déjà réalisés :
 | [Yakha Sport Pernes](https://yakhasportpernes.fr) | Site vitrine pour une salle de sport |
 | [StudyVerse](https://studyverse.fr) | Application web pour les étudiants |
 
+
 ## Ma formation
 
 | Années          | Formation            | Où                                          |
 |:---------------:|:--------------------:|:-------------------------------------------:|
 | 2026 - en cours | **BUT Informatique** | IUT d'Aix-Marseille, site d'Aix-en-Provence |
+
 
 ## Les langages que j'utilise
 
@@ -45,6 +49,7 @@ Quelques sites déjà réalisés :
 
 Ceux que j'utilise le plus, ce sont **HTML**, **CSS**, **TypeScript** et **PHP**, parce que c'est ce qui me sert pour faire des sites. À côté, j'ai aussi utilisé le **C++** et le **C#** pour des applis, et **Python** pour des scripts, des serveurs et les cours.
 
+
 ## Côté serveur
 
 <div align="center">
@@ -54,6 +59,7 @@ Ceux que j'utilise le plus, ce sont **HTML**, **CSS**, **TypeScript** et **PHP**
 </div>
 
 Pour la partie serveur de mes sites, j'utilise surtout **Node.js** avec **Express**, et **npm** pour gérer les paquets. Ça me permet de faire tout le site en JavaScript/TypeScript, du front jusqu'au back.
+
 
 ## Mes outils
 
@@ -82,6 +88,7 @@ La plupart de mes projets sont en **privé**, donc vous ne les verrez pas sur mo
 
 </details>
 
+
 ## Me contacter
 
 <div align="center">
@@ -89,7 +96,4 @@ La plupart de mes projets sont en **privé**, donc vous ne les verrez pas sur mo
 [![Mail Pro](https://img.shields.io/badge/Mail-mathys.chenu@etu.univ--amu.fr-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335)](mailto:mathys.chenu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mathys--chn-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/mathys-chn)
 [![Site](https://img.shields.io/badge/Site-mch--technologies.fr-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=16a34a)](https://mch-technologies.fr)
-
-📍 Aix-en-Provence, France
-
 </div>
