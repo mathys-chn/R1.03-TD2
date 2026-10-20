@@ -1,6 +1,6 @@
 <div align="center">
 
-**Salut, je me présente je suis Mathys CHENU**
+<img src="./banner.svg" alt="bannière">
 
 **Étudiant en BUT Informatique à Aix-en-Provence**
 
