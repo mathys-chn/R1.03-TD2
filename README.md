@@ -20,14 +20,6 @@ J'ai commencé le développement en **2021** avec **Python**, et je suis assez v
 
 ## MCH-Technologies
 
-<div align="center">
-
-<a href="https://mch-technologies.fr">
-  <img src="https://mch-technologies.fr/og.jpg" alt="Aperçu du site MCH-Technologies" width="600" />
-</a>
-
-</div>
-
 **[MCH-Technologies](https://mch-technologies.fr)**, c'est mon projet, déjà en ligne : je crée des **sites internet sur mesure**, pour les artisans, commerçants et petites entreprises.
 
 Quelques sites déjà réalisés :
