@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111a2e"/>
+      <stop offset="1" stop-color="#1a1230"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="0.5" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#16a34a"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.2" r="0.5">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.45">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#f97316" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow1)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow2)"/>
+
+  <!-- Fenêtre de navigateur stylisée à droite -->
+  <g transform="translate(800 62)">
+    <rect width="320" height="176" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect width="320" height="30" rx="12" fill="#21262d"/>
+    <rect y="18" width="320" height="12" fill="#21262d"/>
+    <circle cx="18" cy="15" r="5" fill="#ff5f57"/>
+    <circle cx="34" cy="15" r="5" fill="#febc2e"/>
+    <circle cx="50" cy="15" r="5" fill="#28c840"/>
+    <rect x="72" y="8" width="230" height="14" rx="7" fill="#0d1117"/>
+    <text x="84" y="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b949e">localhost:3000</text>
+    <rect x="20" y="48" width="150" height="14" rx="4" fill="#e6edf3" fill-opacity="0.85"/>
+    <rect x="20" y="70" width="210" height="8" rx="4" fill="#8b949e" fill-opacity="0.5"/>
+    <rect x="20" y="84" width="180" height="8" rx="4" fill="#8b949e" fill-opacity="0.5"/>
+    <rect x="20" y="106" width="86" height="24" rx="6" fill="#16a34a"/>
+    <rect x="116" y="106" width="86" height="24" rx="6" fill="none" stroke="#8b949e" stroke-opacity="0.6"/>
+    <rect x="20" y="144" width="88" height="18" rx="4" fill="#2563eb" fill-opacity="0.35"/>
+    <rect x="116" y="144" width="88" height="18" rx="4" fill="#f97316" fill-opacity="0.35"/>
+    <rect x="212" y="144" width="88" height="18" rx="4" fill="#16a34a" fill-opacity="0.35"/>
+  </g>
+
+  <!-- Texte -->
+  <text x="80" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#f97316">&lt;dev web /&gt;</text>
+  <text x="76" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#e6edf3" letter-spacing="1">Mathys CHENU</text>
+  <rect x="80" y="180" width="140" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="80" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#c9d1d9">Étudiant en BUT Informatique</text>
+  <text x="80" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#8b949e">Aix-en-Provence</text>
+</svg>
