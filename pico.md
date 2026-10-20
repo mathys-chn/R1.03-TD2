@@ -24,7 +24,8 @@ Quand je ne suis pas devant un écran à coder, je passe le plus clair de mon te
 2. La pêche l'après-midi
 3. Le match de l'ASM le soir
    * ~~devant la télé~~
-   * l'apéro, rien de mieux
+   * Le stade, c'est mieux
+4. L'apéro pour finir la journée 
 
 </details>
 
